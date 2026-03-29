@@ -1,1 +1,3 @@
-IyBTaW1wbHlDb3VudGVyIAoKKipTaW1wbHlDb3VudGVyKiogaXMgYSBjbGVhbiwgbWluaW1hbCwgYW5kIGZ1bGx5IG9wZW4tc291cmNlIEFuZHJvaWQgY291bnRlciBhcHBsaWNhdGlvbiBidWlsdCB3aXRoICoqRmx1dHRlcioqLgo=
+# SimplyCounter 
+
+**SimplyCounter** is a clean, minimal, and fully open-source Android counter application built with **Flutter**.
